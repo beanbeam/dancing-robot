@@ -1,6 +1,6 @@
 # Dancing Robot
-
 A dancing robot for a Computer Graphics assignment.
+![The robot in action](dance.gif)
 
 Uses Processing (processing.org)
 
